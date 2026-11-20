@@ -119,3 +119,7 @@ Es wird kein `Review`-/`AggregateRating`-Markup erzeugt. Eigene Unternehmensbewe
 auf der eigenen Website sind bei Google für Organization-/LocalBusiness-Sterne
 „self-serving“. Siehe [Google-Primärquelle](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
 und [§ 5b Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__5b.html).
+
+## Fehler und Wünsche
+
+Bitte als Issue in [studio-nordwerk/contao-pakete](https://github.com/studio-nordwerk/contao-pakete/issues) melden. Der Quellcode auf GitHub ist ein schreibgeschützter Spiegel; entwickelt wird das Paket intern bei Studio Nordwerk, Pull Requests dort werden nicht übernommen.
